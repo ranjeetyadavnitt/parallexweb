@@ -1,2 +1,2 @@
 # parallexweb
-implement parallex effect using 3d transform in css
+#implement parallex effect using 3d transform in css
